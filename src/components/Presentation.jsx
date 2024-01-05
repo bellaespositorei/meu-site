@@ -28,8 +28,8 @@ const Presentation = () => {
         </ContainerContentTitle>
         <ContainerText>
           {" "}
-          Olá! Sou Bella Espósito, desenvolvedora com especialidade em Front end
-          Adquirindo conhecimentos em HTML, CSS, JS e em breve React, sem contar
+          Olá! Sou Bella Espósito, desenvolvedora com especialidade em Front end.
+          Tenho conhecimentos em HTML, CSS, JS e estou estudando React, sem contar
           os conhecimentos em Git/Github, Scrum e UX/UI. Vamos conversar?
         </ContainerText>
         <ContainerLinks>
